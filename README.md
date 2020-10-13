@@ -126,3 +126,4 @@
 |94|Juan Sebastian Vargas Rivera|5|sebastianvmfa| <https://github.com/sebastianvmfa/jsvr_website.git> | <https://sebastianv-portfolio.netlify.app> |2020-10-13
 |95|Lucy Qu|28|lucyqu| https://github.com/lucyqu/my_website | https://lucy-portfolio.netlify.app|2020-10-13
 |96|Kasia Gasiewska|37|kasiagasiewska| <https://github.com/kasiagasiewska/my_website> | <https://kasia-portfolio.netlify.app> |2020-10-13
+|97|Todor Kuveljic|9|todor-kuveljic| <https://github.com/todor-kuveljic/my_website99> | <https://https://todorstest.netlify.app> |2020-10-13
